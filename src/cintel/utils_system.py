@@ -12,6 +12,9 @@ Used by:
 
 All four projects share the same schema (requests, errors,
 total_latency_ms), so their functions live together here.
+
+Author: Sandra Otubushin
+Date: 2026-11
 """
 
 from pathlib import Path

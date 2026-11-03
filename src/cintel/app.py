@@ -31,8 +31,11 @@ PLAN CELLS FIRST
 7. Closing (Markdown)
 
 Note: marimo triggers @app.cell functions automatically; we never call them.
-The names starting with "_" are for our own organization; the engine ignores
-them.
+The names starting with "_"
+are for our own organization; the engine ignores them.
+
+Author: Sandra Otubushin
+Date: 2026-11
 """
 
 # === ONLY THIS AT THE TOP OF THE FILE ===

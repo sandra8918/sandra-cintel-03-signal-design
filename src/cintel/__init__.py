@@ -9,4 +9,7 @@ and that we can import Python files from it.
 Files and variables with double underscores ("dunders")
 like __init__.py or the variable __name__
 have special meanings in Python.
+
+Author: Sandra Otubushin
+Date: 2026-11
 """
